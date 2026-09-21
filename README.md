@@ -37,3 +37,4 @@ The **tips dataset** was used — a real-world restaurant transaction dataset co
 - `MSCS_634_Lab_1.ipynb` — the full Jupyter Notebook with all code, outputs, and markdown explanations
 - `tips.csv` — the original dataset used
 - `/screenshots` — required screenshots for each lab step
+- `report.pdf` — report on everything done in the file
